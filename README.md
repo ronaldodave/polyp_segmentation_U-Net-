@@ -3,7 +3,7 @@
 In this project, the implementation of U-Net is carried out for polyps segmentation on colonoscopy images.  The model made has a good performance in segmenting polyps.  
 Some of the metrics used to assess the performance of the created models including:
 
--   Intersection over Union (IoU) = 
+-   Intersection over Union (IoU) = 74.919
 - Accuracy = 97.524 
 - Recall = 81.790
 - Precision = 89.914
